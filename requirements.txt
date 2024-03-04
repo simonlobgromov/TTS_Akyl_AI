@@ -1,0 +1,6 @@
+subprocess
+transformers
+IPython
+numpy
+torch
+scipy
